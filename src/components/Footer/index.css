@@ -1,0 +1,209 @@
+.footerBackground {
+  background-color: #1c3a2d;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: Flex;
+}
+
+.detailsHeading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 22px;
+  margin-left: 5%;
+  text-align: right;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+
+.boxesBottomss {
+  margin-bottom: 30px;
+  width: 40%;
+}
+
+.arrowBoxess {
+  display: flex;
+  align-items: center;
+  /* margin-left: 7%; */
+}
+
+.circlesNewOnes {
+  background-color: #fc59a3;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+}
+
+.horizontalLiness {
+  border-style: solid;
+  border-color: #fc59a3;
+  width: 100%;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.footerLeft {
+  width: 70%;
+  padding-right: 20px;
+  /* padding: 20px; */
+}
+
+.footerRight {
+  width: 30%;
+  position: relative;
+}
+
+.contactDetails {
+  padding-left: 20%;
+}
+
+.contact1 {
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+}
+.call {
+  background-color: #ffffff;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+}
+.callIcon {
+  color: #1c3a2d;
+  font-size: 25px;
+}
+
+.callDetails {
+  padding: 10px;
+}
+.footerRight {
+  position: relative;
+  /* padding:10px; */
+}
+.companyBox {
+  background-color: #142b21;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  font-family: roboto;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  bottom: 80px;
+}
+
+.companyName {
+  font-family: roboto;
+  color: #ffffff;
+  margin-bottom: 0px;
+  font-size: 50px;
+}
+.companyPara {
+  margin-top: 0px;
+}
+
+.calls {
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  position: relative;
+  top: 80px;
+  right: -18px;
+}
+
+.calls1 {
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  position: relative;
+  top: 80px;
+  right: 30px;
+  /* background-color: orange; */
+  /* left: 80px; */
+}
+
+.calls2 {
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  position: relative;
+  top: 95px;
+  right: 55px;
+  /* left: 80px; */
+}
+
+.calls3 {
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  position: relative;
+  top: 115px;
+  right: 48px;
+  /* left: 80px; */
+}
+
+.calls4 {
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  position: relative;
+  top: 130px;
+  right: 20px;
+  /* left: 80px; */
+}
+
+.callIcons {
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.contact {
+}
+.contact {
+}
